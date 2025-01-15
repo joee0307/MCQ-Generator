@@ -24,9 +24,7 @@ This project is divided into four part:
 1. Building the core of the app using __Natural Language Processing__, __Wordnet__ and __ConceptNet__.
 2. Desiging the frontend with the help of __HTML__, __CSS__, __JavaScript__(Done By __Deepak__).
 3. Building __Flask API__ and Containerizing with the help of __Docker__.
-4. Deploying the whole Web App on __Google Cloud Platform__.
-    - Used e2-medium VM instance with 2 vcpus and 4 gb ram.
-    - will use domain for static ip in future.
+
 ## Pipeline 
 How MCQ queations along with wrong answer choice are generated?
 1. Firstly the user provide text and choose to generate MCQ from Full Text or Summary.
